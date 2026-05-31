@@ -168,7 +168,7 @@ SafeHex – Ethical Hacking Integrity Framework
 Built a React, TypeScript, Tailwind CSS, and Convex-based cybersecurity dashboard that performs ethical target validation, CVSS-based risk classification, vulnerability result analysis, scan history tracking, and report export for authorized security assessments.
 ---
 👨‍💻 Author
-Gunasakthi Loganathan  
+VIJAY D 
 CSE - Artificial Intelligence & Machine Learning  
 Vel Tech High Tech Engineering College
 ---
